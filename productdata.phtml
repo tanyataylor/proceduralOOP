@@ -1,0 +1,17 @@
+<html>
+<head>
+    <title>SORT THE RESULTS</title>
+</head>
+<body>
+<form name="form1" method="post" action="<?php echo $_SERVER['PHP_SELF'];?>">
+    <br/>
+    List Logs: <a href='logs.php'>View Logs</a> &nbsp; &nbsp; &nbsp;
+    Enter Limit:<input type="text" size="12" maxlength="3" name="limit"><br /><br />
+    Sort Option: SKU<input type="radio" value="sku" name="sortoption">
+    Value<input type="radio" value="value" name="sortoption"><br />
+    Sort Order: ASC <input type="radio" value="ASC" name="sortorder">
+    DSC<input type="radio" value="desc" name="sortorder"><br /><br />
+    <input type="submit" value="Submit!" size="12" name="submit"><br /><br/>
+</form>
+</body>
+</html>
