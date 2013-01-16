@@ -4,8 +4,7 @@ error_reporting(E_ALL|E_STRICT);
 ini_set("display_errors",1);
 
 //include('Log.php');
-class Setters // //extends Log.php
-
+class Setters
 {
     public function __construct(){
         if(!isset($_SESSION)){

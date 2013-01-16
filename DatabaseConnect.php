@@ -62,7 +62,7 @@ class DatabaseConnect{
         return $dbSelected;
         }
     }
-
+/*
 try{
     $connect = new DatabaseConnect();
     $dbConnect = $connect->__init();
@@ -71,3 +71,4 @@ try{
 catch (Exception $e){
     echo $e->getMessage() . "\n";
 }
+*/

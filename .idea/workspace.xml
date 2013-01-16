@@ -23,16 +23,52 @@
       <file leaf-file-name="DatabaseConnect.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="0" selection-start="2443" selection-end="2443" vertical-scroll-proportion="-40.0">
+            <state line="43" column="83" selection-start="1573" selection-end="1573" vertical-scroll-proportion="-17.666666">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProductData_.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ProductData_.php">
+      <file leaf-file-name="ProductData.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ProductData.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="15" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="-0.64698935">
+            <state line="96" column="0" selection-start="2855" selection-end="2855" vertical-scroll-proportion="-54.375">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="15" column="19" selection-start="320" selection-end="320" vertical-scroll-proportion="0.32420748">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="28" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayHeader.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/displayHeader.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.25">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="productdata.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/productdata.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="5" column="72" selection-start="137" selection-end="137" vertical-scroll-proportion="-3.125">
               <folding />
             </state>
           </provider>
@@ -41,7 +77,7 @@
       <file leaf-file-name="Setters.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Setters.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="76" column="1" selection-start="2319" selection-end="2319" vertical-scroll-proportion="-41.541668">
+            <state line="6" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="-3.75">
               <folding />
             </state>
           </provider>
@@ -50,7 +86,16 @@
       <file leaf-file-name="Logs.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Logs.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="2" selection-start="180" selection-end="180" vertical-scroll-proportion="-6.25">
+            <state line="45" column="16" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-20.041666">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="displayMonths.phtml" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/displayMonths.phtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="-0.0">
               <folding />
             </state>
           </provider>
@@ -66,27 +111,30 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/logs.php" />
-        <option value="$PROJECT_DIR$/singlerow.php" />
         <option value="$PROJECT_DIR$/main.php" />
         <option value="$PROJECT_DIR$/functions.php" />
-        <option value="$PROJECT_DIR$/DatabaseConnect.php" />
-        <option value="$PROJECT_DIR$/productdata.phtml" />
         <option value="$PROJECT_DIR$/displayHeader.phtml" />
-        <option value="$PROJECT_DIR$/ProductData.php" />
         <option value="$PROJECT_DIR$/tst.php" />
         <option value="$PROJECT_DIR$/SingleRowDisplay.php" />
-        <option value="$PROJECT_DIR$/Logs.php" />
+        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Setters.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/.htaccess" />
+        <option value="$PROJECT_DIR$/productdata.phtml" />
+        <option value="$PROJECT_DIR$/DatabaseConnect.php" />
         <option value="$PROJECT_DIR$/ProductData_.php" />
+        <option value="$PROJECT_DIR$/displayMonths.phtml" />
+        <option value="$PROJECT_DIR$/Logs.php" />
+        <option value="$PROJECT_DIR$/ProductData.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="Xdebug" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="1680" />
+    <option name="x" value="65" />
     <option name="y" value="24" />
-    <option name="width" value="1680" />
+    <option name="width" value="1615" />
     <option name="height" value="1026" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -140,9 +188,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../proceduralRefactored" />
+    <property name="recentsLimit" value="5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../magento" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="PHP Script.Logs.php">
+    <configuration default="false" name="Logs.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Logs.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
     <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
       <TestRunner />
       <method />
@@ -150,9 +204,34 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <list size="0" />
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.Logs.php" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.Logs.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="false">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="DETECT_NESTED_COPIES" value="true" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d25c15e2-cd04-46fe-8711-f2a74aaa8497" name="Default" comment="" />
@@ -162,23 +241,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1680" y="24" width="1680" height="1026" extended-state="6" />
-    <editor active="true" />
+    <frame x="65" y="24" width="1615" height="1026" extended-state="6" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14333333" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25337422" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25686902" sideWeight="0.8566667" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.054444443" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -234,9 +313,39 @@
     <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="0" selection-start="2443" selection-end="2443" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProductData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="467" selection-end="467" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Setters.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Logs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="2" selection-start="180" selection-end="180" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="71" column="33" selection-start="2599" selection-end="2599" vertical-scroll-proportion="0.0">
@@ -244,49 +353,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
+    <entry file="file://$PROJECT_DIR$/.htaccess">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+        <state line="2" column="28" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/displayHeader.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="0.035419125">
+        <state line="2" column="0" selection-start="69" selection-end="69" vertical-scroll-proportion="-1.25">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/displayMonths.phtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="20" selection-start="20" selection-end="20" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/productdata.phtml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="7" selection-start="686" selection-end="686" vertical-scroll-proportion="0.283353">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="0" selection-start="2443" selection-end="2443" vertical-scroll-proportion="-40.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Logs.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="2" selection-start="180" selection-end="180" vertical-scroll-proportion="-6.25">
+        <state line="5" column="72" selection-start="137" selection-end="137" vertical-scroll-proportion="-3.125">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Setters.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="76" column="1" selection-start="2319" selection-end="2319" vertical-scroll-proportion="-41.541668">
+        <state line="6" column="13" selection-start="105" selection-end="105" vertical-scroll-proportion="-3.75">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ProductData_.php">
+    <entry file="file://$PROJECT_DIR$/Logs.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="28" selection-start="342" selection-end="342" vertical-scroll-proportion="-0.64698935">
+        <state line="45" column="16" selection-start="1175" selection-end="1175" vertical-scroll-proportion="-20.041666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DatabaseConnect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="83" selection-start="1573" selection-end="1573" vertical-scroll-proportion="-17.666666">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ProductData.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="96" column="0" selection-start="2855" selection-end="2855" vertical-scroll-proportion="-54.375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="19" selection-start="320" selection-end="320" vertical-scroll-proportion="0.32420748">
           <folding />
         </state>
       </provider>
